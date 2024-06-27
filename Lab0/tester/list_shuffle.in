@@ -1,0 +1,13 @@
+create list list1
+list_push_front list1 4
+list_push_front list1 3
+list_push_front list1 2
+list_push_front list1 1
+dumpdata list1
+list_shuffle list1
+dumpdata list1
+list_shuffle list1
+dumpdata list1
+list_shuffle list1
+dumpdata list1
+quit
